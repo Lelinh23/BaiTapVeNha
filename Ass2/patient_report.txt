@@ -1,0 +1,6 @@
+Patient Type: In-Patient
+Number of Days: 10
+Daily Rate: 4
+Medication Charges: 50
+Service Charges: 100
+Total Charges: $190
